@@ -24,31 +24,31 @@ export const shoes = [
 ];
 
 export const statistics = [
-    { value: '1k+', label: 'Brands' },
-    { value: '500+', label: 'Shops' },
-    { value: '250k+', label: 'Customers' },
+    { value: '2k+', label: 'Brands' },
+    { value: '700+', label: 'Shops' },
+    { value: '350k+', label: 'Customers' },
 ];
 
 export const products = [
     {
         imgURL: shoe4,
         name: "Nike Air Jordan-01",
-        price: "$200.20",
+        price: "₹2000/-",
     },
     {
         imgURL: shoe5,
         name: "Nike Air Jordan-10",
-        price: "$210.20",
+        price: "₹8000/-",
     },
     {
         imgURL: shoe6,
         name: "Nike Air Jordan-100",
-        price: "$220.20",
+        price: "₹5000/-",
     },
     {
         imgURL: shoe7,
         name: "Nike Air Jordan-001",
-        price: "$230.20",
+        price: "₹12000/-",
     },
 ];
 
@@ -79,9 +79,9 @@ export const reviews = [
     },
     {
         imgURL: customer2,
-        customerName: 'Lota Mongeskar',
-        rating: 4.5,
-        feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
+        customerName: 'Narayan Nik',
+        rating: 4.8,
+        feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer and ask others to buy as well!"
     }
 ];
 
@@ -111,7 +111,7 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
+            { name: "cust@nike.com", link: "mailto:cust@nike.com" },
             { name: "+92554862354", link: "tel:+92554862354" },
         ],
     },
